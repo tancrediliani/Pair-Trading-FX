@@ -19,6 +19,9 @@ TRAINING_WINDOWS = [63, 128, 257]  # days
 TESTING_WINDOWS = [1, 5, 21, 63, 128]  # days
 Z_SCORE_THRESHOLDS = [1, 2, 3]  # standard deviations
 
+# Holding period threshold (in days)
+HOLDING_THRESHOLD = None  # days
+
 # Study period (17 years as in paper)
 START_DATE = '2007-01-01'
 END_DATE = '2024-01-01'
