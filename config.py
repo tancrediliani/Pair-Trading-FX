@@ -27,7 +27,7 @@ END_DATE = '2024-01-01'
 SIGNIFICANCE_LEVEL = 0.05
 
 # Risk-free rate (for Sharpe ratio calculation)
-RISK_FREE_RATE = 0.02  # 2% annual
+RISK_FREE_RATE = 0  # 0% annual
 
 # Cointegration test parameters
 MAX_LAG = 12  # Maximum lag for ADF tests
