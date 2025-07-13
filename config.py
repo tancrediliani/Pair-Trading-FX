@@ -23,8 +23,8 @@ Z_SCORE_THRESHOLDS = [1, 2, 3]  # standard deviations
 HOLDING_THRESHOLD = None  # days
 
 # Stop-loss and take-profit thresholds (percentage)
-STOP_LOSS = 0  # percentage
-TAKE_PROFIT = 0  # percentage
+STOP_LOSS = None  # percentage
+TAKE_PROFIT = None  # percentage
 
 # Study period (17 years as in paper)
 START_DATE = '2007-01-01'
