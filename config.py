@@ -26,6 +26,9 @@ HOLDING_THRESHOLD = None  # days
 STOP_LOSS = None  # percentage
 TAKE_PROFIT = None  # percentage
 
+# Transaction costs (percentage)
+TRANSACTION_COSTS = 0.0005  # 0.05% transaction costs
+
 # Study period (17 years as in paper)
 START_DATE = '2007-01-01'
 END_DATE = '2024-01-01'
