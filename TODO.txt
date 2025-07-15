@@ -1,0 +1,6 @@
+- Factor analysis
+- Update README
+- Add sources
+- Add results
+- Add requirements
+- Final check
